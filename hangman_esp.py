@@ -1,6 +1,3 @@
-from mimetypes import inited
-
-
 
 import random
 import hangman_art
