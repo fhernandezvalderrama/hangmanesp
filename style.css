@@ -1,0 +1,26 @@
+.hangman {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.hangman h1 {
+  color: #4CAF50;
+}
+
+.hangman .word {
+  font-size: 24px;
+  letter-spacing: 5px;
+  margin: 20px 0;
+}
+
+.hangman .gallows {
+  height: 200px;
+  width: 120px;
+  border: 2px solid #000;
+  margin: 0 auto;
+}
+
+.hangman .tries {
+  color: #FF0000;
+  font-weight: bold;
+}
